@@ -1,2 +1,2 @@
 # nextjsproject1
-Starting to build nextjs project
+Starting to build nextjs projects
